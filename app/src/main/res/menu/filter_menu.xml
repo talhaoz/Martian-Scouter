@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/itemGroup">
+    <item
+        android:id="@+id/item0"
+        android:checkable="true"
+        android:icon="@drawable/ic_filter_icon"
+        android:title="ALL"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item1"
+        android:checkable="true"
+        android:icon="@drawable/ic_filter_icon"
+        android:title="FHAZ"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item2"
+        android:checkable="true"
+        android:title="RHAZ"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item3"
+        android:checkable="true"
+        android:title="MAST"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item4"
+        android:checkable="true"
+        android:title="CHEMCAM"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item5"
+        android:checkable="true"
+        android:title="MAHLI"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item6"
+        android:checkable="true"
+        android:title="MARDI"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item7"
+        android:checkable="true"
+        android:title="NAVCAM"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item8"
+        android:checkable="true"
+        android:title="PANCAM"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item9"
+        android:checkable="true"
+        android:title="MINITES"
+        app:showAsAction="never" />
+    </group>
+
+</menu>
