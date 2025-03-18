@@ -8,7 +8,6 @@ Martian Scouter allow users to reach out Nasa Mars mission rover photos from ope
 - LiveData
 - Pagination
 
-API= https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY
 
 ## License
 Copyright 2020. Talha Oz All rights reserved.
